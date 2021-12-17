@@ -6,3 +6,4 @@ This repository contains some notebooks I created during the course [STK4021](ht
 
 - [Sons of Odin](notebooks/odin.ipynb) - Simple binomial setting incorporating prior beliefs about the actual number of children of Odin
 - [Rats laboratory experiment](notebooks/rats.ipynb) - Logistic regression and sampling using simple Markov Chain Monte Carlo techniques
+- [Life expectancy in ancient Egypt](notebooks/egypt_life_lengths.ipynb) - Fitting Weibull models for men and women life lengths using the "Lazy Bayesian" method
