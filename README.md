@@ -2,6 +2,8 @@
 
 This repository contains some notebooks I created during the course [STK4021](https://www.uio.no/studier/emner/matnat/math/STK4021/index-eng.html) - **Applied Bayesian Analysis** @University of Oslo.
 
+The course and also part of the exercises are strongly based on [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman et al.
+
 ## Content
 
 - [Sons of Odin](notebooks/odin.ipynb) - Simple binomial setting incorporating prior beliefs about the actual number of children of Odin
