@@ -8,3 +8,4 @@ This repository contains some notebooks I created during the course [STK4021](ht
 - [Rats laboratory experiment](notebooks/rats.ipynb) - Logistic regression and sampling using simple Markov Chain Monte Carlo techniques
 - [Life expectancy in ancient Egypt](notebooks/egypt_life_lengths.ipynb) - Fitting Weibull models for men and women life lengths using the "Lazy Bayesian" method
 - [Magic squares](notebooks/magic_squares.ipynb) - Finding magic squares using the Metropolis Markov Chain Monte Carlo algorithm
+- [Cable cars in San Francisco](notebooks/cable_cars.ipynb) - Estimating the number of cable cars in San Francisco; an example of a discrete sample space
